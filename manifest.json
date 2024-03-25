@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Buy the Sen Bundle",
+  "version": "1.0",
+  "description": "Replaces images on a X/Twitter feed with random Sentinel bundle images.",
+  "author": "stevenxngo",
+  "permissions": ["activeTab"],
+  "host_permissions": ["<all_urls>"],
+  "content_scripts": [
+    {
+      "matches": ["*://twitter.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["assets/*"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "icons": {
+    "2000": "assets/sen2000.png"
+  },
+  "action": {
+    "default_icon": "assets/sen2000.png"
+  }
+}
