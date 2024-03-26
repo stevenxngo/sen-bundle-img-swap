@@ -10,8 +10,8 @@ Google Chrome extension that swaps the images on a X/Twitter feed with a random 
 4. Enable Developer Mode
 5. Click on `Load unpacked`
 6. Select the repository folder
-
-With that being said, BUY THE SEN BUNDLE!
+7. Visit Twitter or X
+8. Enjoy and buy the Sen bundle!
 
 ![Sentinels Masters Madrid Champions](/assets/sen_champs.jpeg)
 ![Buy the Sen Bundle](/assets/sen_bundle0.jpeg)
