@@ -19,9 +19,9 @@
     }
   ],
   "icons": {
-    "2000": "assets/sen2000.png"
+    "2000": "assets/sen.png"
   },
   "action": {
-    "default_icon": "assets/sen2000.png"
+    "default_icon": "assets/sen.png"
   }
 }
