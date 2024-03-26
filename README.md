@@ -1,6 +1,6 @@
 # Sen Bundle Image Swap
 
-Google Chrome extension that swaps the images on a X/Twitter feed with a random image promoting the Sentinels Valorant bundle. This extension was created in celebration of Sentinels winning Masters Madrid and is not affiliated with Sentinels or Riot Games.
+Google Chrome extension made in jest that swaps the images on a X/Twitter feed with a random image promoting the Sentinels Valorant bundle. This extension was created in celebration of Sentinels winning Masters Madrid and is not affiliated with Sentinels or Riot Games.
 
 ## Installation
 
